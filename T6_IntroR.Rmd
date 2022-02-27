@@ -1,6 +1,6 @@
 ---
 title: "Introducción R"
-author: "Johanna Guarango"
+author: "Alexandra Sarmiento"
 date: "26/2/2022"
 output:
   html_document:
