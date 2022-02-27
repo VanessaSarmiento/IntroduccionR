@@ -1,9 +1,10 @@
 # IntroduccionR
+
 ## Datos personales 
 - Nombres completos: Alexandra Vanessa Sarmiento Lesdesma
 - Edad:21años
 - Ciudad Natal: Puyo
-- Correo Personal: vanessa1sarmiento@gmail.com
+- Correo Personal: alexandra.sarmiento@est.ikiam.edu.ec
 ## Caracteristicas del Computador
 - Nombre del Dispositivo: MAQUINA-PC
 - RAM instalado: 3,00 GB
